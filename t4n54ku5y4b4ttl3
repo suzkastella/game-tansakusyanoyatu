@@ -5,14 +5,6 @@
   <title>Game</title>
 <meta name="robots" content="noindex, nofollow">
 
-<style>
-  input,
-  textarea {
-    display: none !important;
-  }
-</style>
-
-
 
   <!-- スマホ対応 -->
   <meta name="viewport"
@@ -33,6 +25,12 @@
       height: 100vh;
       border: none;
     }
+
+  
+  input,
+  textarea {
+    display: none !important;
+  }
   </style>
 </head>
 <body>
